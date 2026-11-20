@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Saish Bhujbal**
 
 
-Aspiring **Software Development Engineer** aiming to crack a **Big Tech internship by early 2026**. I blend tech, fitness, and creativity to build disciplined workflows and meaningful projects.
+ I blend tech, fitness, and creativity to build disciplined workflows and meaningful projects.
 
 
 ---
